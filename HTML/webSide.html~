@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>
+			heeeey
+		</title>
+		<style type="text/css">
+			body {background-color:#002200;}
+
+			h1	{	
+				color:orange; 
+				background-color:#004400;
+				position:absolute; 
+				left:40%;
+				border:20px ridge red;
+				padding-top:   40px;
+				padding-bottom:40px;
+				padding-left:  40px;
+				padding-right: 40px;
+				}
+
+			p {color:red;}	
+
+			
+		#bodyText1	{
+				color:orange;
+				background-color:#004400;
+				border:20px ridge red;
+				position:fixed;
+				top:40%;
+				left:35%;
+				padding-top:   40px;
+				padding-bottom:40px;
+				padding-left:  40px;
+				padding-right: 40px;
+			    	}
+		#spanBodyText1		{
+				color:#af0000;
+				font-size:40px;
+				font-weight:bold;
+				}	
+
+			
+		#bodyText2 	{
+				color:orange;
+				background-color:#004400;
+				border:20px ridge red;
+				position:fixed;
+				top:60%;
+				left:35%;
+				padding-top:   40px;
+				padding-bottom:40px;
+				padding-left:  40px;
+				padding-right: 40px;
+			    	}
+
+		 	#link1	{
+				color:magenta;
+				}
+
+		</style>
+	</head>
+
+	<body>
+
+		<h1>Carl's Imperium</h1>
+
+		<div id=bodyText1> 
+			<span id=spanBodyText1>V</span>älkommen till Carl's Imperium. Detta är en superfet hemsida.</br>
+		      	Här kan du göra en massa saker.
+		</div>
+
+		<div id=bodyText2> 
+			Välkommen till Carl's Imperium. Detta är en superfet hemsida.</br>
+			Här kan du göra en massa saker.</br></br>
+			<a id=link1 href="http://google.com">Google</a>
+		</div>
+
+		<!-- 
+		  	this is a comment 
+			wdokwdo
+			wdokwdokwdowkdoo
+			awdpokawd
+		-->	
+
+	</body>
+</html>
